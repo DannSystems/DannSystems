@@ -10,4 +10,5 @@
 
 ## Some of my Github Stats
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=mainboiii&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/mainboiii/github-readme-stats)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=mainboiii&layout=compact)](https://github.com/mainboiii/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomassystems&" alt="tomassystems" /></p>
