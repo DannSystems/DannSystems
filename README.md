@@ -4,7 +4,7 @@
 
 
 - 🔭 I am currently owner of Melody Radio
-- 🌱 I also own Dan Development where all my projects are from bots to websites
+- 🌱 I also own dann.systems where all my projects are from bots to websites
 - 👯 I am really smart (not cap)
 - 📫 How to reach me: dan@dann.systems or to add me on discord dann#5466
 
