@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Dan!
 
-[![Github Badge](https://img.shields.io/badge/-dannsystems-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dannsystems/)](https://www.github.com/dannsystems/) ![Profile views]([https://komarev.com/ghpvc/?dannsystems](https://komarev.com/ghpvc/?dannsystems))
+[![Github Badge](https://img.shields.io/badge/-dannsystems-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dannsystems/)](https://www.github.com/dannsystems/) ![Profile views]([https://komarev.com/ghpvc/?dannsystems])
 
 
 - 🔭 I am a PHP, JS and DJS Developer
